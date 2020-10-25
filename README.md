@@ -16,11 +16,13 @@ gen2 (ResNet)
 + bambu 3*
 + tpumps 3*
 + tea era 3*
++ chatime 3.1* (Seattle location)
 + sharetea 3.5*
 + 7 leaves 3.5*
 + factory tea bar 3.5*
 + gong cha 3.5*
 + yifang 3.5*
++ asha 3.6*
 
 late gen2/early gen3 (InceptionV3/DenseNet)
 ================================
