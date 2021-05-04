@@ -37,3 +37,7 @@ gen3 (AmoebaNet/EfficentNet)
 + omomo 3.7*
 + don't yell at me 3.6*
 + orobae 3.6*
+
+Reading list
+============
++ N7
