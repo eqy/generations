@@ -7,6 +7,7 @@ gen1 (AlexNet)
 late gen1/early gen2 (VGG)
 ==========================
 + iTea 2*
++ mee sum 2.1*
 
 gen2 (ResNet)
 =============
@@ -16,6 +17,7 @@ gen2 (ResNet)
 + bambu 3*
 + tpumps 3*
 + tea era 3*
++ meraki tea bar 3*
 + chatime 3.1* (Seattle location)
 + sharetea 3.5*
 + 7 leaves 3.5*
