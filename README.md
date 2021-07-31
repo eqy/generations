@@ -18,7 +18,7 @@ gen2 (ResNet)
 + tpumps 3*
 + tea era 3*
 + meraki tea bar 3*
-+ chatime 3.1* (Seattle location)
++ chatime 3.1* (Seattle location, RIP)
 + sharetea 3.5*
 + 7 leaves 3.5*
 + factory tea bar 3.5*
