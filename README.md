@@ -3,6 +3,8 @@ gen1 (AlexNet)
 + quickly 1*
 + tapex 1*
 + oasis (seattle) 1*
++ boba square 1.5*
++ cha for tea 1.9*
 
 late gen1/early gen2 (VGG)
 ==========================
@@ -14,7 +16,8 @@ gen2 (ResNet)
 + teaspoon 2*
 + happy lemon 2*
 + kft 2.5*
-+ bambu 3*
++ bambu 2.5*
++ sunright 2.7*
 + tpumps 3*
 + tea era 3*
 + meraki tea bar 3*
