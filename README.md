@@ -48,7 +48,7 @@ Reading list
 ============
 + N7
 + Ume Tea
-+ Uni Uni (Chicago, Houston)
++ Uni Uni (Chicago, Houston, Minneapolis)
 + Bingo Tea (Chicago)
 
 Refresh
