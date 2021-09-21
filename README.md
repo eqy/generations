@@ -35,6 +35,7 @@ late gen2/early gen3 (InceptionV3/DenseNet)
 + boba guys 3.5*
 + the alley 3.6*
 + tp tea 3.6*
++ feng cha 2.8*
 
 gen3 (AmoebaNet/EfficentNet)
 ============================
@@ -47,7 +48,8 @@ Reading list
 ============
 + N7
 + Ume Tea
-+ Feng Cha
++ Uni Uni (Chicago, Houston)
++ Bingo Tea (Chicago)
 
 Refresh
 =======
