@@ -22,10 +22,10 @@ gen2 (ResNet)
 + tea era 3*
 + meraki tea bar 3*
 + chatime 3.1* (Seattle location, RIP)
++ gong cha 3.3*
 + sharetea 3.5*
 + 7 leaves 3.5*
 + factory tea bar 3.5*
-+ gong cha 3.5*
 + yifang 3.5*
 + asha 3.6*
 
