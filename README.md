@@ -44,6 +44,10 @@ gen3 (AmoebaNet/EfficentNet)
 + don't yell at me 3.6*
 + orobae 3.6*
 
+gen4 (Vision Transformer??)
+===========================
++ ???
+
 Reading list
 ============
 + N7
